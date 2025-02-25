@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sleep Tracker</string>
+    <string name="undo_Btn">Undo</string>
+    <string name="submit_Btn">Submit</string>
+    <string name="sleep_Avg_Header">Daily Sleep Average</string>
+    <string name="startTimeDefault">11:00 PM</string>
+    <string name="endTimeDefault">07:00 AM</string>
+    <string name="startTimeHeader">Start</string>
+    <string name="endTimeHeader">End</string>
+    <string name="sleepTimeHeader">Sleep Time</string>
+    <string name="sleepTimeCalculation">8 Hours 0 Minutes</string>
+    <string name="sleepAverageText">8.25 Hours</string>
+    <string name="warningContentDescriptor">warning symbol</string>
+    <string name="settingsHeader">Settings</string>
+    <string name="dailySleepAvg">Daily Sleep Average</string>
+    <string name="settingsHours">Hours</string>
+    <string name="settingsMins">Minutes</string>
+    <string name="saveBtn">Save</string>
+    <string name="backBtn">Cancel</string>
+    <string name="undoError">You may only undo one entry.</string>
+</resources>
